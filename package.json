@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  },
+  "scripts": {
+    "tsc-main": "tsc -p tsconfig-main.json",
+    "tsc-worker": "tsc -p tsconfig-worker.json"
+  },
+  "name": "ts-rpc",
+  "version": "0.1.0",
+  "description": "Typed Web Worker RPC",
+  "author": "Jeremy Hughes <jedahu@gmail.com>",
+  "license": "MIT"
+}

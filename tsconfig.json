@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "lib": ["ES6"],
+        "newLine": "lf",
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "strictNullChecks": true,
+        "target": "ES5",
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "baseUrl": "./src",
+        "outDir": ".",
+        "declaration": true
+    }
+}
